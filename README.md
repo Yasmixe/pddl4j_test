@@ -1,4 +1,4 @@
-# Guide d'Installation et d'Exécution de pddl4j
+# Prise en main de la bibliotheque Pddl4j. Guide d'Installation et d'Exécution de pddl4j
 
 Ce guide explique comment configurer et exécuter un exemple avec pddl4j.
 
