@@ -41,9 +41,7 @@ Ce guide explique comment configurer et exécuter un exemple avec pddl4j.
 6. **Exécuter l'Exemple** :
    - Exécutez l'exemple avec la commande suivante :
      ```bash
-     java -cp classes;lib/pddl4j-4.0.0.jar fr.uga.pddl4j.examples.ProblemInstantiationExample \
-     src/test/resources/benchmarks/pddl/ipc2000/logistics/strips-typed/domain.pddl \
-     src/test/resources/benchmarks/pddl/ipc2000/logistics/strips-typed/p01.pddl
+     java -cp "classes;lib/pddl4j-4.0.0.jar" fr.uga.pddl4j.examples.ProblemInstantiationExample "src/test/resources/benchmarks/pddl/ipc2000/logistics/strips-typed/domain.pddl" "src/test/resources/benchmarks/pddl/ipc2000/logistics/strips-typed/p01.pddl"
      ```
 
 7. **Fichiers PDDL** :
